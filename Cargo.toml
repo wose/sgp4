@@ -1,0 +1,10 @@
+[package]
+authors = ["Sebastian Woetzel <wose@zuendmasse.de>"]
+description = "SGP4 precedures for analytical propagation of a satellite"
+edition = "2018"
+license = "MIT OR Apache-2.0"
+name = "sgp4"
+repository = "https://github.com/wose/sgp4"
+version = "0.1.0"
+
+[dependencies]
